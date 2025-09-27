@@ -83,8 +83,7 @@ ext-youtube-timestmap/
 ├── background.js          # Service worker for keyboard shortcuts
 ├── content.js            # Main functionality and UI
 ├── styles.css            # Panel styling
-├── README.md             # This file
-└── LOADING_INSTRUCTIONS.md # Legacy loading instructions
+└── README.md             # This file
 ```
 
 ## Permissions
