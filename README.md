@@ -22,7 +22,7 @@ A Chrome extension that helps you to record timestamp specifically for [yt-dlp](
 6. **Repeat steps 3-5** for multiple sections
 7. **Click Copy button** to copy all sections to clipboard
 
-## Example Output
+## Example Outputs
 
 ```
 --download-sections "*02:03:53-02:04:12" --download-sections "*02:07:39-02:08:21" --download-sections "*02:09:22-02:09:45"
