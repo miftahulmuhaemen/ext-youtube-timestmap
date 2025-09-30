@@ -31,7 +31,7 @@ A Chrome extension that helps you to record timestamp specifically for [yt-dlp](
 ## Installation
 
 ### From Chrome Web Store
-*Coming soon...*
+[*Youtube Timestamp Copier*](https://chromewebstore.google.com/detail/youtube-timestamp-copier/gnamomkjkgpdkfoekildoonfgckhflig)
 
 ### Manual Installation (Developer Mode)
 
